@@ -12,6 +12,12 @@
 
 ## 🌱 소개
 
+<p align="center">
+  <a href="https://www.dicebear.com/styles/bottts/"><img width="105" src="https://api.dicebear.com/10.x/bottts/svg?seed=learning-buddy" alt="함께 배우는 로봇 캐릭터" /></a>
+  <a href="https://www.dicebear.com/styles/sprouts/"><img width="105" src="https://api.dicebear.com/10.x/sprouts/svg?seed=small-steps" alt="조금씩 자라는 화분 캐릭터" /></a>
+  <br /><sub>아직 배우는 중. 하나씩 직접 만들어 보는 중.</sub>
+</p>
+
 안녕하세요, 전재경입니다.
 
 마케팅과 콘텐츠 제작 일을 해왔고, 현재는 AI 서비스 개발 수업을 들으며 Python과 SQL을 공부하고 있습니다. 배우면서 불편했던 점을 작은 도구로 만들어 보는 데 관심이 있습니다.
@@ -36,6 +42,8 @@ AI의 도움으로 구현하고, 수업과 실습에서 사용하며 불편한 �
 </p>
 
 ## 📚 공부하고 있는 것
+
+<p align="center"><img width="100%" src="./assets/learning-loop.svg" alt="눈을 깜박이는 로봇과 배우기 → 만들기 → 고치기 → 기록하기 학습 순환 애니메이션" /></p>
 
 <div align="center">
   <h3>Learning now</h3>
@@ -68,7 +76,20 @@ AI의 도움으로 구현하고, 수업과 실습에서 사용하며 불편한 �
   <p><sub>공개 저장소 기준으로 갱신됩니다. 언어 비중은 숙련도를 뜻하지 않습니다.</sub></p>
 </div>
 
+<details>
+<summary>🎨 이 프로필에 사용한 꾸미기 도구</summary>
+
+| 도구 | 적용한 곳 |
+|:---|:---|
+| [Shields.io](https://shields.io/) · [Simple Icons](https://simpleicons.org/) | 상태·프로젝트·기술 배지 |
+| [Hits](https://hits.sh/) | 프로필 조회 카운터 |
+| [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) | 실습의 GitHub Readme Stats 후속 프로젝트로 활동·언어 카드 구성 |
+| [Capsule Render](https://github.com/kyechan99/capsule-render) | 그라데이션 웨이브 헤더·푸터 |
+| [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) · [Skill Icons](https://github.com/tandpfun/skill-icons) | 타이핑 애니메이션·기술 아이콘 |
+
 외부 이미지 서비스 상태에 따라 위젯 표시가 지연될 수 있습니다. 조회 카운터는 고유 방문자 수가 아닙니다.
+
+캐릭터: [Bottts](https://www.dicebear.com/styles/bottts/) — Pablo Stanley, 개인·상업적 사용 가능 / [Sprouts](https://www.dicebear.com/styles/sprouts/) — DiceBear, CC0 1.0. 학습 순환 모션은 이 프로필용으로 직접 만든 SVG이며, 숙련도나 성과 수치를 나타내지 않습니다.
 
 </details>
 
