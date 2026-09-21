@@ -1,7 +1,5 @@
 ![바이브코더 전재경입니다](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%8D%94+%EC%A0%84%EC%9E%AC%EA%B2%BD+%EC%9E%85%EB%8B%88%EB%8B%A4&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=85&descAlignY=60)
 
-![바이브코더 전재경입니다](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%8D%94+%EC%A0%84%EC%9E%AC%EA%B2%BD+%EC%9E%85%EB%8B%88%EB%8B%A4&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=85&descAlignY=60)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header.svg" />
