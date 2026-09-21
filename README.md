@@ -68,17 +68,6 @@ AI의 도움으로 구현하고, 수업과 실습에서 사용하며 불편한 �
   <p><sub>공개 저장소 기준으로 갱신됩니다. 언어 비중은 숙련도를 뜻하지 않습니다.</sub></p>
 </div>
 
-<details>
-<summary>🎨 이 프로필에 사용한 꾸미기 도구</summary>
-
-| 도구 | 적용한 곳 |
-|:---|:---|
-| [Shields.io](https://shields.io/) · [Simple Icons](https://simpleicons.org/) | 상태·프로젝트·기술 배지 |
-| [Hits](https://hits.sh/) | 프로필 조회 카운터 |
-| [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) | 실습의 GitHub Readme Stats 후속 프로젝트로 활동·언어 카드 구성 |
-| [Capsule Render](https://github.com/kyechan99/capsule-render) | 그라데이션 웨이브 헤더·푸터 |
-| [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) · [Skill Icons](https://github.com/tandpfun/skill-icons) | 타이핑 애니메이션·기술 아이콘 |
-
 외부 이미지 서비스 상태에 따라 위젯 표시가 지연될 수 있습니다. 조회 카운터는 고유 방문자 수가 아닙니다.
 
 </details>
